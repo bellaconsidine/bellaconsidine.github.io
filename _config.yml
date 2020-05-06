@@ -17,6 +17,7 @@ phone:
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
+
 # social settings
 500px_url:
 facebook_url:
