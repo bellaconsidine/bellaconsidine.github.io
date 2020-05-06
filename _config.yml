@@ -3,7 +3,7 @@ title: Online Portfolio
 subtitle: Bella Considine
 email: bella.considine@yahoo.co.uk
 description: Bella Considine's online portfolio
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Bella Considine
 street_address: 34 Dorrit Crescent
