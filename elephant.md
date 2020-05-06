@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Elephant
-description: The Elephant
+description: A man's encounter with an elephant
 image: assets/images/elephant.jpg
 nav-menu: true
 ---
