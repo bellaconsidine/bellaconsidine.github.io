@@ -1,33 +1,44 @@
 # site settings
+<<<<<<< HEAD
 title: Online Portfolio
 subtitle: Bella Considine
 email: bella.considine@yahoo.co.uk
 description: Bella Considine's online portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
+=======
+title: Portfolio
+subtitle: A collection of works by Bella Considine
+email: bellaconsidine@yahoo.co.uk
+description: Films, writings and drawings by Bella Considine
+baseurl: "" # the subpath of your site, e.g. /blog
+url: 
+>>>>>>> gh-pages
 author: Bella Considine
 street_address: 34 Dorrit Crescent
 city: Guildford
 state: Surrey
 zip_code: GU3 3AP
 country: England
+<<<<<<< HEAD
 phone: #(716) 555-5555
+=======
+phone: 
+>>>>>>> gh-pages
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
+
 # social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
 markdown: kramdown
