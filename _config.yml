@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: A collection of works by Bella Considine
 email: bellaconsidine@yahoo.co.uk
 description: Films, writings and drawings by Bella Considine
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: bellaconsidine.com # the base hostname & protocol for your site
 author: Bella Considine
 street_address: 34 Dorrit Crescent
