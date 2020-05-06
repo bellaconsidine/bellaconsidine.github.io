@@ -2,7 +2,7 @@
 title: Writings
 layout: landing
 description: 'Some stories'
-image: assets/images/writings.png
+image: assets/images/writing.png
 nav-menu: true
 ---
 
@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="writings/elephant.html" class="image">
 			<img src="{% link assets/images/elephant.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -22,13 +22,13 @@ nav-menu: true
 				</header>
 				<p>A man's encounter with an elephant.</p>
 				<ul class="actions">
-					<li><a href="elephant.html" class="button">Learn more</a></li>
+					<li><a href="writings/elephant.html" class="button">Read</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="elephant.html" class="image">
+		<a href="writings/house.html" class="image">
 			<img src="{% link assets/images/house.webp %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -38,13 +38,13 @@ nav-menu: true
 				</header>
 				<p>A storybook tale of three unlikely friends</p>
 				<ul class="actions">
-					<li><a href="house.html" class="button">Learn more</a></li>
+					<li><a href="writings/house.html" class="button">Read</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="planned_obsolescent.html" class="image">
+		<a href="writings/planned_obscelecent.html" class="image">
 			<img src="{% link assets/images/london.webp %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -54,13 +54,13 @@ nav-menu: true
 				</header>
 				<p>Being broke, sad and alone in London</p>
 				<ul class="actions">
-					<li><a href="planned_obsolescent.html" class="button">Learn more</a></li>
+					<li><a href="writings/planned_obscelecent.html" class="button">Read</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="_writings/manifesto.html" class="image">
 			<img src="{% link assets/images/manifesto.webp %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -70,12 +70,11 @@ nav-menu: true
 				</header>
 				<p>A bitter old man's reflections on love, and lovelessness</p>
 				<ul class="actions">
-					<li><a href="manifesto.html" class="button">Learn more</a></li>
+					<li><a href="writings/manifesto.html" class="button">Read</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-</section>
 </section>
 
 
