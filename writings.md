@@ -29,7 +29,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="writings/house.html" class="image">
-			<img src="{% link assets/images/house.webp %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/house.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,7 +45,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="writings/planned_obscelecent.html" class="image">
-			<img src="{% link assets/images/london.webp %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/london.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -61,7 +61,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="_writings/manifesto.html" class="image">
-			<img src="{% link assets/images/manifesto.webp %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/manifesto.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

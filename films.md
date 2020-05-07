@@ -2,7 +2,7 @@
 title: Films
 layout: landing
 description: 'A few short films'
-image: assets/images/films.webp
+image: assets/images/film.png
 nav-menu: true
 ---
 

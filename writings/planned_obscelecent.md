@@ -2,7 +2,7 @@
 layout: post
 title: Planned Obscelecent
 description: Being broke, sad and alone in London
-image: assets/images/london.webp
+image: assets/images/london.jpg
 nav-menu: false
 main_tile: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: The House on the edge of the world
 description: A storybook tale of three unlikely friends
-image: assets/images/house.webp
+image: assets/images/house.jpg
 nav-menu: false
 main_tile: false
 ---
