@@ -13,7 +13,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="films/girl.html" class="image">
+		<a href="films/stars.html" class="image">
 			<img src="http://i1.ytimg.com/vi/anizFf_niiA/default.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -23,7 +23,7 @@ nav-menu: true
 				</header>
 				<p>Reflections on idols and adolescence, how our heroes become immortal in our eyes</p>
 				<ul class="actions">
-					<li><a href="films/girl.html" class="button">Watch</a></li>
+					<li><a href="films/stars.html" class="button">Watch</a></li>
 				</ul>
 			</div>
 		</div>
