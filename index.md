@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Casual filmmaker, writer and artist'
+landing-title: 'Filmmaker, writer and artist'
 description: null
 image: null
 author: null
