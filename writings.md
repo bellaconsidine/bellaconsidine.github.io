@@ -75,7 +75,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
+	<section>
+		<a href="writings/elephant.html" class="image">
+			<img src="{% link assets/images/elephant.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The Elephant</h3>
+				</header>
+				<p>A man's encounter with an elephant.</p>
+				<ul class="actions">
+					<li><a href="writings/elephant.html" class="button">Read</a></li>
+				</ul>
+			</div>
+		</div>
+	</section></section>
 
 
 </div>
