@@ -76,17 +76,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="writings/elephant.html" class="image">
-			<img src="{% link assets/images/elephant.jpg %}" alt="" data-position="center center" />
+		<a href="writings/thingsfall.html" class="image">
+			<img src="{% link assets/images/thingsfall.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The Elephant</h3>
+					<h3>Essay Comparison: Things Fall Apart/ Hamlet</h3>
 				</header>
-				<p>A man's encounter with an elephant.</p>
+				<p>A Level Essay. </p>
 				<ul class="actions">
-					<li><a href="writings/elephant.html" class="button">Read</a></li>
+					<li><a href="writings/thingsfall.html" class="button">Read</a></li>
 				</ul>
 			</div>
 		</div>
